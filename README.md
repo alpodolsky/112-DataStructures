@@ -1,5 +1,3 @@
-# Rutgers CS112 Data Structures
-
 # MST
 -MST involved finding a minimum spanning tree given a graph
 
